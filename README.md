@@ -29,4 +29,4 @@ QUERY:
 
 Conclusion: pretty much the same as the insert results
 
-Looks like ULID is not a good option for postgresql databases at this moment
+Looks like ULID is not a good option for postgresql databases at this moment and not when for the others you have the option to generate value on adding the entity
